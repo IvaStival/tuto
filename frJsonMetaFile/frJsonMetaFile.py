@@ -3,8 +3,7 @@ import json
 
 
 class MetaFile:
-    ''' Save and load the objects data using json data structure 
-        File: frJsonMetaFIle
+    ''' Save and l
     '''
     def saveData(self, name, objects_list):
         json_list = {}
