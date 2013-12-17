@@ -3,7 +3,7 @@ import json
 
 
 class MetaFile:
-    ''' Save and l
+    ''' Save l
     '''
     def saveData(self, name, objects_list):
         json_list = {}
